@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "PeINxkwvhXY=",
+  "success": true,
+  "projectFilePath": "D:\\is_4curs\\AIML_bot\\AIML_bot\\AIML_bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sa052\\.nuget\\packages\\aimlbot\\2.0.0\\aimlbot.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Пакет \"AIMLBot 2.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "projectPath": "D:\\is_4curs\\AIML_bot\\AIML_bot\\AIML_bot.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\is_4curs\\AIML_bot\\AIML_bot\\AIML_bot.csproj",
+      "libraryId": "AIMLBot",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
